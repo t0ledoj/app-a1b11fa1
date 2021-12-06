@@ -5,6 +5,7 @@ A quick guide on how to run this project in your localhost.
 ### Prerequisites
 * Composer
 * PHP >= 7.2.5
+* Laravel 7.30.5
 * MySQL 8
 
 ### Installation
